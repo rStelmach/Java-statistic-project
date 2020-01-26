@@ -1,0 +1,4 @@
+Średnia arytmetyczna: 4.51278
+Mediana: 5.0
+Dominanta: 9.0
+Odchylenie standardowe: 2.8768034
